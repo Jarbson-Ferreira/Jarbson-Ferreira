@@ -2,7 +2,7 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jarbson-ferreira/)
 
-![Jarbson GitHub stats](https://github-readme-stats.vercel.app/api?username=Jarbson-Ferreira&show_icons=true&theme=tokyonight)
+![Jarbson GitHub stats](https://github-readme-stats.vercel.app/api?username=Jarbson-Ferreira&show_icons=true&theme=highcontrast)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jarbson-Ferreira&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
